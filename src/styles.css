@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-size: covier;
+  background-repeat: no-repeat;
+  background-color: #f1c0a8;
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  overscroll-behavior: none;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+
+  padding: 10px;
+}
+
+.LandingPage {
+  color: blue;
+  height: 100vh;
+  background-color: white;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
